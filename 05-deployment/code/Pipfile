@@ -11,6 +11,7 @@ scikit-learn = "==1.3.0"
 
 [dev-packages]
 requests = "*"
+awsebcli = "*"
 
 [requires]
 python_version = "3.10"
